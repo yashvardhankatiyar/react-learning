@@ -1,0 +1,47 @@
+h1 {
+  font-weight: 300;
+  font-size: 45px;
+  margin: 10px;
+  margin-bottom: 20px;
+}
+
+input{
+  width : 50%;
+}
+
+.black-input {
+  color: black;
+}
+
+
+.todo-container{
+  text-align: left;;
+}
+
+.items-container{
+  text-align: right;
+}
+
+.kg-row
+{
+  margin-top: 15px;
+  margin: 10px 20px ;
+  margin-left: 20px;
+}
+
+.del{
+  width: 100px; 
+  color: rgb(0, 0, 0);
+  background-color: rgb(208, 121, 196);
+  outline: auto;
+}
+
+.task{
+  font-weight: 600;
+
+
+}
+
+.bbt{
+  
+}

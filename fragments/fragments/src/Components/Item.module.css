@@ -1,0 +1,13 @@
+.button{
+  width : 20%;
+  float:  right;
+  color: blanchedalmond;
+  background-color: black;
+  border: 0;
+}
+
+.kg-list{
+  font-weight: 100;
+  color: brown;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
